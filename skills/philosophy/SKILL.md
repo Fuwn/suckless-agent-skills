@@ -1,3 +1,8 @@
+---
+name: "philosophy"
+description: "Suckless philosophy and manifest for building simple, minimal, maintainable software with a focus on clarity and frugality."
+---
+
 Philosophy
 ==========
 We are the home of quality software with a focus on simplicity, clarity and

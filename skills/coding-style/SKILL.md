@@ -1,3 +1,8 @@
+---
+name: "coding-style"
+description: "Coding style guidelines for C and POSIX code, covering layout, formatting, declarations, headers, and consistency expectations."
+---
+
 Style
 =====
 Note that the following are guidelines and the most important aspect of style
