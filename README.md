@@ -22,12 +22,6 @@ Use these files as skill definitions for your coding agent setup, or read them
 directly as project guidance. The intent is not to add process overhead, but to
 keep implementation disciplined and small.
 
-If you add new skills, follow the existing layout:
-
-1. Create `skills/<skill-name>/SKILL.md`.
-2. Add frontmatter with at least `name` and `description`.
-3. Keep the guidance concrete, minimal, and opinionated.
-
 ## License
 
 See [LICENSE](LICENSE).
