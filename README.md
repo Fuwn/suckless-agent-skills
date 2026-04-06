@@ -6,6 +6,12 @@ frugality, and maintainability.
 These skills are based on the principles and materials published at
 <https://suckless.org>.
 
+## Install
+
+```bash
+npx skills add Fuwn/suckless-agent-skills
+```
+
 ## Contents
 
 This repository currently provides two skills:
